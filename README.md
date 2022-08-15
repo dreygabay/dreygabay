@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on improving my programming and problem solving skills.
+- 🌱 I’m currently learning web development.
+- 📫 You can find me on the ff:
+  [Facebook](https://www.facebook.com/dreygabay)
+  [Twitter](https://twitter.com/DreyGabay)
+  [LinkedIn](https://www.linkedin.com/in/andre-gabay-13a194247/)
 
 <!--
 **dreygabay/dreygabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
