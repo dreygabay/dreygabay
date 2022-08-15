@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on improving my programming and problem solving skills.
 - 🌱 I’m currently learning web development.
-- 📫 You can find me on the ff:
-  [Facebook](https://www.facebook.com/dreygabay)
-  [Twitter](https://twitter.com/DreyGabay)
+- 📫 You can find me on the following social media platforms:
+  [Facebook](https://www.facebook.com/dreygabay), 
+  [Twitter](https://twitter.com/DreyGabay), 
   [LinkedIn](https://www.linkedin.com/in/andre-gabay-13a194247/)
 
 <!--
